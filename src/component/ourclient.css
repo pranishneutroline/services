@@ -1,0 +1,14 @@
+
+.h1{
+    font-family:'Raleway';
+    font-weight: bold; 
+    font-style: italic; 
+    color:black; 
+    padding-top: 10px; 
+    justify-content: center;
+}
+.card-image-top{    
+    width:90%;
+    padding:2em;
+    height:300px;
+}
